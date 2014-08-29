@@ -27,4 +27,4 @@ Goals
 Process
 -------
 
-genomicmosaic is owned by all its authors and contributors. This is an open source project licensed under the LGPLv3. This is an experiment in growing a project using the [C4.1 process](http://http://rfc.zeromq.org/spec:22). If you are interested in contributing, please read about the process and get in touch.
+genomicmosaic is owned by all its authors and contributors. This is an open source project licensed under the GPLv3. This is an experiment in growing a project using the [C4.1 process](http://http://rfc.zeromq.org/spec:22). If you are interested in contributing, please read about the process and get in touch.
